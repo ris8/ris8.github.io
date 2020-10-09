@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Iris projecet
+title: Iris project
 subtitle: It's pretty short
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
